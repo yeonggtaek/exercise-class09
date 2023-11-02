@@ -1,3 +1,3 @@
- # Lab 2 Save To Different Branches
- ## Lee
+ # Lab 2 given, written
+ ## Lab to help save files and folders into different GitHub branches created by Lee
  
