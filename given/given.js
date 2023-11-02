@@ -85,7 +85,7 @@ var course = schedule[2][0];
 var courseName = schedule[2][1];
 var credits = schedule[2][3];
 console.log(`I am taking _${course}_, _${courseName}_ that is worth _${credits}_ credits`);
-//
+//     
 
 
 
